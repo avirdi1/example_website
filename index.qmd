@@ -1,0 +1,11 @@
+---
+title: "example_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Good to have an easy place to get extensions from GH.
+
+<https://m.canouil.dev/quarto-extensions>
